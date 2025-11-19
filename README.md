@@ -99,3 +99,6 @@ Blazor snippet sample apps
 ## Community help and support
 
 For more information, see the *Support requests* section in the [Blazor *Fundamentals* overview article](https://docs.microsoft.com/aspnet/core/blazor/fundamentals/#support-requests).
+
+
+Updated by Cypress on 2025-11-19T11:45:14.196Z
